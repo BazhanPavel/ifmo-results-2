@@ -4,7 +4,7 @@ Plugin Name: TextSizeChanging
 Plugin URI: http://wpfolder.com
 Description: Увеличение / уменьшение основного текста статьи в режиме реального времени
 Version: 1.0
-Author: Юлия Севостьянова
+Author: Бажан Павел
 Author URI: http://wpfolder.com
 License: GPL2
 */
