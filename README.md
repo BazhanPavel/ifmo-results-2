@@ -1,8 +1,6 @@
 # Бажан Павел, S4108
 
 Задания за 2 семестр 2017-2018 учебного года    
-Для удобного просмотра можно использовать index.html после клонирования 
-репозитория
 
 ## Семестровые 
 
@@ -52,7 +50,7 @@ KnockoutJS + нативные JS события
 
 > https://github.com/BazhanPavel/ifmo-results-2/tree/master/2303/TextSizeChanging
 
-6. Скрипт, извлекающий из WordPress заголовки постов с помощью Word 
+**6. Скрипт, извлекающий из WordPress заголовки постов с помощью Word**
 PressREST API
 
 > https://github.com/BazhanPavel/ifmo-results-2/tree/master/2303/02
