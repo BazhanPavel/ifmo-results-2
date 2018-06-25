@@ -32,6 +32,8 @@ KnockoutJS + нативные JS события
 
 **1. Проект с оператором bind**
 
+> https://github.com/BazhanPavel/ifmo-results-2/tree/master/0203
+
 2. Последовательное выполнение асинхронных заданий в цикле (30.03.2018)
 
 3. Проект на JSX «Liker» который задеплоен на Github Pages (27.04.2018) 
