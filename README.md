@@ -50,11 +50,12 @@ KnockoutJS + нативные JS события
 
 **5. Плагин для Wordpress (23.03.2018)**
 
-> 
-https://github.com/BazhanPavel/ifmo-results-2/tree/master/2303/TextSizeChanging
+> https://github.com/BazhanPavel/ifmo-results-2/tree/master/2303/TextSizeChanging
 
 6. Скрипт, извлекающий из WordPress заголовки постов с помощью Word 
 PressREST API
+
+> https://github.com/BazhanPavel/ifmo-results-2/tree/master/2303/02
 
 7. Квайн на JS в одну строку с использованием метода toString функции
 
