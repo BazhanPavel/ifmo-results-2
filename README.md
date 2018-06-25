@@ -37,7 +37,7 @@ KnockoutJS + нативные JS события
 **2. Последовательное выполнение асинхронных заданий в цикле 
 (30.03.2018)**
 
-> https://github.com/BazhanPavel/ifmo-results-2/tree/master/2704
+> https://github.com/BazhanPavel/ifmo-results-2/tree/master/3003
 
 **3. Проект на JSX «Liker» (27.04.2018)**
 
@@ -45,7 +45,8 @@ KnockoutJS + нативные JS события
 > https://bazhanpavel.github.io/
 
 4. Проект с нативными компонентами от 13.04.2018 
-(https://kodaktor.ru/compo2)
+
+> https://github.com/BazhanPavel/ifmo-results-2/tree/master/1304
 
 5. Плагин для Wordpress (23.03.2018)
 
