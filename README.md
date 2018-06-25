@@ -55,8 +55,11 @@ PressREST API
 
 > https://github.com/BazhanPavel/ifmo-results-2/tree/master/2303/02
 
-7. Квайн на JS в одну строку с использованием метода toString функции
+**7. Квайн на JS в одну строку с использованием метода toString функции**
 
-8. Сценарий на RxJS, превращающий щелчки по кнопке в наблюдаемый поток.
+> https://github.com/BazhanPavel/ifmo-results-2/tree/master/1602/01
 
-9*. Реализация на RxJS композиции асинхронных заданий из проекта piper
+**8. Сценарий на RxJS, превращающий щелчки по кнопке в наблюдаемый поток.**
+
+> https://github.com/BazhanPavel/ifmo-results-2/tree/master/2004
+
