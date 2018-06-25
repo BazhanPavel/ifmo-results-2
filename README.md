@@ -42,6 +42,7 @@ KnockoutJS + нативные JS события
 **3. Проект на JSX «Liker» (27.04.2018)**
 
 > https://github.com/BazhanPavel/ifmo-results-2/tree/master/2704
+> https://bazhanpavel.github.io/
 
 4. Проект с нативными компонентами от 13.04.2018 
 (https://kodaktor.ru/compo2)
